@@ -223,3 +223,7 @@ public class Catalog implements Search {
     return bookAuthors.get(query);
   }
 }
+public class (String []args){
+Scanner S=new Scanner(System.in);
+
+}
